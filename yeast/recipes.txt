@@ -1,0 +1,30 @@
+########
+Yeast Freeze Medium
+########
+4% Glycerol
+0.67% Yeast Nitrogen Base
+-Filter Sterilize
+
+########
+SD +CAA*
+########
+5g/L Casamino Acids
+1.7g/L Yeast Nitrogen Base w/o Ammonium Sulfate or Amino Acids
+5.3g/L Ammonium Sulfate
+10.19g/L Na2HPO4-7(H2O) or 8.56 g/L NaH2PO4-H20
+20g/L Dextrose
+
+########
+SG/R +CAA*
+########
+5g/L Casamino Acids
+1.7g/L Yeast Nitrogen Base w/o Ammonium Sulfate or Amino Acids
+5.3g/L Ammonium Sulfate
+10.19g/L Na2HPO4-7(H2O) or 8.56 g/L NaH2PO4-H20
+20g/L Galactose
+20g/L Raffinose
+1g/L Dextrose
+
+
+*Naturally deficient in Ade, Trp, Ura:
+    Add 76mg/L of appropriate amino acids to make selective medias.
